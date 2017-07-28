@@ -78,7 +78,9 @@ package com.certification;
   }
   }
 */
-
+/*class Rs{
+	Integer number = Integer.valueOff(808.1);
+}*/
 
 
 
